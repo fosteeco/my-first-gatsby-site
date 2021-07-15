@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "My Gatsby Site",
+    title: "Christian Foster's Gatsby",
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",

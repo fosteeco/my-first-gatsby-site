@@ -2,6 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import { Link } from "gatsby";
+import "../components/blog-styles.css";
 
 export default function BlogTemplate({ data }) {
   const { markdownRemark } = data;
